@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Harry 👋
 
-<!--
-**allentheboy01-sys/allentheboy01-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI changes. Your digital life shouldn't.
 
-Here are some ideas to get you started:
+I'm a first-year IoT student exploring the future of Personal AI Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- 🧠 Personal AI Infrastructure
+- 📚 Long-term Memory Systems
+- 🔒 Digital Ownership
+- 🏠 Self-hosting
+- 🤖 AI Agents
+
+## Current Project
+
+🚧 Jarvis
+
+Building a personal AI infrastructure where memory belongs to the user, not the AI.
+
+---
+
+## Philosophy
+
+> Own your digital life. Let any AI work for you.
