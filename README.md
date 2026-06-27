@@ -2,24 +2,42 @@
 
 > AI changes. Your digital life shouldn't.
 
-I'm a first-year IoT student exploring the future of Personal AI Infrastructure.
+I'm currently exploring a simple question.
 
-## Current Interests
+**Can a person's digital life exist independently of any AI company?**
 
-- 🧠 Personal AI Infrastructure
-- 📚 Long-term Memory Systems
-- 🔒 Digital Ownership
-- 🏠 Self-hosting
-- 🤖 AI Agents
+---
+
+## Current Research
+
+- Personal AI Infrastructure
+- Long-term Memory Systems
+- Digital Ownership
+- Self-hosted AI
+- Context Engineering
+
+---
 
 ## Current Project
 
 🚧 Jarvis
 
-Building a personal AI infrastructure where memory belongs to the user, not the AI.
+Building an open personal AI infrastructure where:
+
+- Memory belongs to the user.
+- AI only accesses what it needs.
+- Models can be replaced without losing your digital life.
 
 ---
 
-## Philosophy
+## Why?
+
+Large language models evolve rapidly.
+
+Personal data shouldn't have to migrate every time AI changes.
+
+I'm documenting every design decision, every experiment, and every mistake in public.
+
+---
 
 > Own your digital life. Let any AI work for you.
